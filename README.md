@@ -1,0 +1,1 @@
+# lucid_responsive_class12
